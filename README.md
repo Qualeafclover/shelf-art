@@ -13,3 +13,4 @@ Parameters
 [Block resolution]
 ./java-shelf-art.jar kogasa.png tangram display-shelf.png out.png 2 8
 ```
+Sample output found under the sample folder in the repository
